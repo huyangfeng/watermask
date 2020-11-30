@@ -4,7 +4,7 @@
 # 关于接口：
 - 接口采用RESTful API方式提供，不限制开发语言，Java、python、node.js都可便捷接入；
 - 接口支持GET和POST两种请求方式；
-- 接口不限制IP和cookie”
+- 接口不限制IP和cookie
 
 # 视频/图集去水印解析接口
 URL：https://andoly.cn/api/parse.do
