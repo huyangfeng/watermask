@@ -7,7 +7,7 @@
 - 接口不限制IP和cookie
 
 # 视频/图集去水印解析接口
-URL：https://andoly.cn/api/parse.do
+URL：https://andoly.cn/api/anlysis.do?appKey={appKey}&anlysisUrl={anlysisUrl}
 请求方式：GET/POST
 请求参数：
 appkey  请联系作者获取
